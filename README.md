@@ -1,4 +1,4 @@
 Contact-list-with-backbone.js
 =============================
 
-A phone contact list with backbone.js
+This is a tiny simple application with backbone.js .
